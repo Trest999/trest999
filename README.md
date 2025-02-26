@@ -143,7 +143,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+## Testing Artefacts (Тестовые артефакты)
 
+- [Модуль 1: Тестирование веб-приложения интернет магазин]
+  
+- [Модуль 2: Тестирование API и создание коллекций в Postman] (https://github.com/username/repo2) .
+- [Модуль 3: Работа с MY SQL (Запросы Select / Join)] (https://github.com/username/repo3) 
+ - [Модуль 4: Тестирование мобильных приложений ]
+ - [Модуль 5: Прокси серверы. Перехват трафика. (Charles Proxy,Proxyman, Fiddler) ]
 ---
 
 

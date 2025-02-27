@@ -143,14 +143,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
-## Testing Artefacts (Тестовые артефакты)
+ Testing Artefacts (Тестовые артефакты)
 
 - Модуль 1: [Тестирование веб приложений](https://github.com/Trest999/Web-testing/blob/main/README.md#-)
   
-- Модуль 2: Тестирование API и создание коллекций в Postman 
-- Модуль 3: Работа с MY SQL (Запросы Select / Join)
- - Модуль 4: Тестирование мобильных приложений 
- - Модуль 5: Прокси серверы. Перехват трафика. (Charles Proxy,Proxyman, Fiddler) 
+- Модуль 2:  [Тестирование API](https://github.com/Trest999/Testing-API)
+- Модуль 3:  [Работа с MY SQL (Запросы Select / Join)](https://github.com/Trest999/MY-SQL?tab=readme-ov-file)
+- Модуль 4: [Тестирование мобильных приложений](https://github.com/Trest999/Mobile-testing)
+- Модуль 5:  [Прокси серверы. Перехват трафика. (Charles Proxy,Proxyman, Fiddler)](https://github.com/Trest999/proxy?tab=readme-ov-file)
 ---
 
 

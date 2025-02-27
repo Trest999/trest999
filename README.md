@@ -8,7 +8,7 @@
 
 На протяжении 8 лет занимался развитием коммерчсекого проекта и вот решил полностью сменить свою сферу деятельности, узнать новое, именно поэтому вы читаете этот текст.
 
-Закончил курсы  [Артема Русова Тестирование ПО с нуля (Теория и практика)](https://drive.google.com/file/d/1ESpLx0EphOFZ5rstC2DXWOgsNLS-ZUib/view?usp=sharing) , а также курс "Функциональное тестирование ПО" 
+Закончил курсы  [Артема Русова Тестирование ПО с нуля (Теория и практика)](https://drive.google.com/file/d/1ESpLx0EphOFZ5rstC2DXWOgsNLS-ZUib/view?usp=sharing) , а также курс  [Функциональное тестирование ПО](https://drive.google.com/file/d/1iwPCG4Xrv_Z_9Hqxd15A6w4RwNYqVy7N/view?usp=sharing)
 
 <h3>Мое резюме</h3>  
 

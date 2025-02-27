@@ -16,7 +16,9 @@
 
 
 
-<h4> 📫 Как связаться со мной:</h4> [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:trest9@gmail.com)
+<h4> 📫 Как связаться со мной:</h4> 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:trest9@gmail.com)
 
 
 ---

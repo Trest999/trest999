@@ -12,7 +12,7 @@
 
 <h3>Мое резюме</h3>  
 
-[тут](https://drive.google.com/file/d/1wtdbWg7_tAFd65oJqBxU5FrvvbOUMewq/view?usp=sharing)
+[ТУТ][https://drive.google.com/file/d/1sOn_32bC2kEOU0KykP-gr8V7xEZKIxy6/view?usp=share_link]
 
 
 
@@ -154,3 +154,6 @@
 ---
 
 
+
+
+[def]: https://drive.google.com/file/d/1sOn_32bC2kEOU0KykP-gr8V7xEZKIxy6/view?usp=share_link
